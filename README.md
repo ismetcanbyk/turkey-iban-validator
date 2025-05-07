@@ -1,7 +1,7 @@
 # 🇹🇷 Turkey IBAN Validator
 
 [![NPM Version](https://img.shields.io/npm/v/turkey-iban-validator.svg)](https://www.npmjs.com/package/turkey-iban-validator)
-[![License](https://img.shields.io/npm/l/turkey-iban-validator.svg)](./LICENSE)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 
 Validate Turkish IBAN numbers with ease, and optionally validate general IBAN formats from all countries.
@@ -51,4 +51,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [ismetcanbyk](https://github.com/ismetcanbyk)
+## 📧 Contact
+
+Feel free to contact me with any questions or suggestions.
+
+- 📧 Email: [ismetcanbyk@gmail.com](mailto:ismetcanbyk@gmail.com)
+- 💬 Instagram: [@ismetcanbyk](https://www.instagram.com/ismetcanbyk/)
+- 💬 LinkedIn: [ismetcanbyk](https://www.linkedin.com/in/ismetcanbyk/)
+- 💬 GitHub: [ismetcanbyk](https://github.com/ismetcanbyk)
