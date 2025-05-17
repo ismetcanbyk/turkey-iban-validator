@@ -1,6 +1,6 @@
 {
   "name": "turkey-iban-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "Validate Turkish IBANs and validate all IBANs",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/ismetcanbyk/turkey-iban-validator/issues"
   },
-  "homepage": "https://github.com/ismetcanbyk/turkey-iban-validator#readme",
+  "homepage": "https://ibancontrol.com",
   "website": "https://ibancontrol.com",
   "devDependencies": {
     "typescript": "^5.8.3"
