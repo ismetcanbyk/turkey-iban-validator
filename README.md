@@ -15,6 +15,10 @@ Validate Turkish IBAN numbers with ease, and optionally validate general IBAN fo
 - ⚙️ Written in TypeScript
 - 🚀 Lightweight & fast
 
+## 🔗 Related Resources
+
+- 🌐 [IBAN Control](https://ibancontrol.com) - Online IBAN validation and verification service
+
 ---
 
 ## 📦 Installation
